@@ -1,0 +1,7 @@
+{
+    "name": "Srikanta/hello",
+    "description": "Hello",
+    "require": {
+        "php": ">=5.3.0"
+    }
+}

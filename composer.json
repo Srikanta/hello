@@ -1,7 +1,9 @@
 {
     "name": "Srikanta/hello",
     "description": "Hello",
-    "require": {
-        "php": ">=5.3.0"
-    }
+    "version": "3.1.7",
+    "dist": {
+        "url": "https://github.com/Srikanta/hello/archive/master.zip",
+        "type": "zip"
+    	}
 }
